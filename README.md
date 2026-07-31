@@ -6,7 +6,6 @@ A socio-technical biography tracking a single tube of medicine from raw-material
 * **Author:** Nithya Madalakote Prakash
 * **Course:** MOOC Global Studies 2026
 * **Program:** Master Programme in Artificial Intelligence
-* **Enrolment Number:** 5020109
 
 ## About This Project
 A tube of medicine doesn't look like it has much of a story to tell. But the tube of 0.05% tretinoin ointment carried from India to Germany turned out to have a much longer history—one that runs through API production, generic manufacturing, national regulation, personal consumption, and eventually waste. 
